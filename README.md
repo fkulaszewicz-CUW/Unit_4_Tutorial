@@ -1,3 +1,7 @@
+# Overview
+
+Follow the tutorial at: https://angular.io/start to get a working Angular app and introduce you to the technology.
+
 # MyProjectName
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
